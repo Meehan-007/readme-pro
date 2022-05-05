@@ -1,0 +1,22 @@
+{
+  "name": "week-hw-9",
+  "version": "1.0.0",
+  "description": "readme file",
+  "main": "readme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meehan-007/readme-pro.git"
+  },
+  "keywords": [
+    "readme"
+  ],
+  "author": "Meehan-007",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meehan-007/readme-pro/issues"
+  },
+  "homepage": "https://github.com/Meehan-007/readme-pro#readme"
+}
